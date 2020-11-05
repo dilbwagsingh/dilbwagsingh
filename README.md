@@ -84,10 +84,14 @@
 
 <b> Find me at </b>
 <br />
+
 <a href="https://linkedin.com/in/dilbwagsingh">
   <img align="left" alt="Dilbwag Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a> 
 <a href="https://www.instagram.com/dilbwagsingh/">
   <img align="left" alt="Dilbwag Singh - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<br />
+<a href="https://www.facebook.com/dilbwagsingh/">
+  <img align="left" alt="Dilbwag Singh - Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
+</a>
+

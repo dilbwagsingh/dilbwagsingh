@@ -1,19 +1,18 @@
-# Hi there 👋
+![Intro GIF](https://github.com/dilbwagsingh/dilbwagsingh/blob/main/intro.gif)
 
 
 ### Myself, In a nutshell-
-- 🌱 I’m currently learning: Web Development
+- 🎓 I'm currently pursuing Chemical engineering from IIT (BHU), Varanasi, India.
 - 📚 What do I beleive? Jack of all, Master of some
 - 😎 Motto: When your work speaks for itself, don't interrupt
 - 👯 I’m looking to collaborate on: Any idea which fascinates me
 - 🤔 I’m looking for help with: Web Development and DevOps
 - 💬 Ask me about: Tech gadgets
-- ⚡ Fun fact: I love playing games(Indoor/Outdoor/Computer)
+- ⚡ Fun fact: I love playing games(Indoor/Outdoor/Computer
 
-<br /> 
+#### Link to my [resume](https://rb.gy/dtmoqt)
 
-#### Find my resume [here](https://rb.gy/dtmoqt)
-
+<br />
 <details>
   <summary>
     <img width=15px" src="https://img.icons8.com/ios-glyphs/24/000000/language.png"/>

@@ -15,7 +15,6 @@
 
 ---
 
-<br />
 <details open>
   <summary>
     <img width=15px" src="https://img.icons8.com/ios-glyphs/24/000000/language.png"/>

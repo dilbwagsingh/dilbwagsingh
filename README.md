@@ -2,14 +2,17 @@
 
 
 ### Myself, In a nutshell-
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning: Web Development
 - 📚 What do I beleive? Jack of all, Master of some
-- 👯 I’m looking to collaborate on any idea which fascinates me
-- 🤔 I’m looking for help with Web Development and DevOps
-- 💬 Ask me about Deep Learning and Cybersecurity
+- 😎 Motto: When your work speaks for itself, don't interrupt
+- 👯 I’m looking to collaborate on: Any idea which fascinates me
+- 🤔 I’m looking for help with: Web Development and DevOps
+- 💬 Ask me about: Tech gadgets
 - ⚡ Fun fact: I love playing games(Indoor/Outdoor/Computer)
 
 <br /> 
+
+#### Find my resume [here](https://rb.gy/dtmoqt)
 
 <details>
   <summary>

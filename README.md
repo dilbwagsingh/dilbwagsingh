@@ -53,6 +53,8 @@
   src="https://img.icons8.com/fluent/140/000000/visual-studio-code-2019.png"/>
   <img align="left" alt="Sublime Text" width="40px"
   src="https://img.icons8.com/fluent/144/000000/sublime-text.png"/>
+  <img align="left" alt="Sublime Text" width="40px"
+  src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
   
   <br />
   <br />

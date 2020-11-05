@@ -1,6 +1,7 @@
 ![Intro GIF](https://github.com/dilbwagsingh/dilbwagsingh/blob/main/intro.gif)
 
 
+
 ### Myself, In a nutshell-
 - 🎓 I'm currently pursuing Chemical engineering from IIT (BHU), Varanasi, India.
 - 📚 What do I beleive? Jack of all, Master of some
@@ -12,8 +13,10 @@
 
 #### Link to my [resume](https://rb.gy/dtmoqt)
 
+---
+
 <br />
-<details>
+<details open>
   <summary>
     <img width=15px" src="https://img.icons8.com/ios-glyphs/24/000000/language.png"/>
     <b> Languages </b> 
@@ -37,10 +40,11 @@
 
   <br />
   <br />
+  <br />
   
 </details>
 
-<details> 
+<details open> 
   <summary> 
     <img width="15px" src="https://img.icons8.com/material-sharp/24/000000/wrench.png"/> 
     <b> Tools </b> 
@@ -53,10 +57,11 @@
   
   <br />
   <br />
+  <br />
   
 </details>
 
-<details>
+<details open>
   <summary>
     <img width="15px" src="https://img.icons8.com/wired/24/000000/idea.png"/>
     <b> Technologies </b>
@@ -79,8 +84,11 @@
 
   <br />
   <br />
+  <br />
   
 </details>
+
+---
 
 <b> Find me at </b>
 <br />

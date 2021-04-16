@@ -36,6 +36,7 @@
   src="https://img.icons8.com/color/144/000000/css3.png"/>
   <img align="left" alt="Javascript" width="40px" 
   src="https://img.icons8.com/color/144/000000/javascript.png"/>
+  
 
   <br />
   <br />
@@ -89,9 +90,9 @@
   <img align="left" alt="MongoDB" width="40px" 
   src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img align="left" alt="Express.js" width="40px" 
-  src="https://symbols.getvecta.com/stencil_79/87_expressjs.72a4a0d57c.png"/>
+  src="https://www.mementotech.in/assets/images/icons/express.png"/>
   <img align="left" alt="React.js" width="40px" 
-  src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg"/>
+  src="https://jasonpallone.com/React-icon.png"/>
   <img align="left" alt="Node.js" width="40px"
   src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1618586434~hmac=e1daa2fbd03a119a9ee608c8d457f43f"/>
   

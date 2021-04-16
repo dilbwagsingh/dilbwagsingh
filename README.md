@@ -55,6 +55,10 @@
   src="https://img.icons8.com/fluent/144/000000/sublime-text.png"/>
   <img align="left" alt="Sublime Text" width="40px"
   src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+  <img align="left" alt="npm" width="40px" 
+  src="https://img.icons8.com/color/48/000000/npm.png"/>
+  <img align="left" alt="Git" width="40px" 
+  src="https://img.icons8.com/color/144/000000/git.png"/>
   
   <br />
   <br />
@@ -70,18 +74,27 @@
 
   <img align="left" alt="Linux" width="40px" 
   src="https://img.icons8.com/color/144/000000/linux.png"/>
-  <img align="left" alt="Git" width="40px" 
-  src="https://img.icons8.com/color/144/000000/git.png"/>
   <img align="left" alt="Github" width="40px" 
   src="https://img.icons8.com/fluent/144/000000/github.png"/>
   <img align="left" alt="Amazon Web Services" width="40px"
   src="https://img.icons8.com/color/144/000000/amazon-web-services.png"/>
   <img align="left" alt="Docker" width="40px" 
   src="https://img.icons8.com/color/144/000000/docker.png"/>
-  <img align="left" alt="Kubernetes" width="40px" 
+  <img align="left" alt="Kubernetes" width="40px"
   src="https://img.icons8.com/color/144/000000/kubernetes.png"/>
+  <img align="left" alt="HAproxy" width="40px"
+  src="https://symbols.getvecta.com/stencil_83/11_haproxy-icon.4cfc81197b.png"/>
   <img align="left" alt="Tensorflow" width="40px" 
   src="https://img.icons8.com/color/144/000000/tensorflow.png"/>
+  <img align="left" alt="MongoDB" width="40px" 
+  src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img align="left" alt="Express.js" width="40px" 
+  src="https://symbols.getvecta.com/stencil_79/87_expressjs.72a4a0d57c.png"/>
+  <img align="left" alt="React.js" width="40px" 
+  src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183672.svg"/>
+  <img align="left" alt="Node.js" width="40px"
+  src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1618586434~hmac=e1daa2fbd03a119a9ee608c8d457f43f"/>
+  
 
   <br />
   <br />
@@ -95,12 +108,12 @@
 <br />
 
 <a href="https://linkedin.com/in/dilbwagsingh">
-  <img align="left" alt="Dilbwag Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" alt="Dilbwag Singh - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a> 
 <a href="https://www.instagram.com/dilbwagsingh/">
-  <img align="left" alt="Dilbwag Singh - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  <img align="left" alt="Dilbwag Singh - Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
 <a href="https://www.facebook.com/dilbwagsingh/">
-  <img align="left" alt="Dilbwag Singh - Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
+  <img align="left" alt="Dilbwag Singh - Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
 </a>
 

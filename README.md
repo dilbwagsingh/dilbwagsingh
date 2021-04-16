@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on: Any idea which fascinates me
 - 🤔 I’m looking for help with: Web Development and DevOps
 - 💬 Ask me about: Tech gadgets
-- ⚡ Fun fact: I love playing games(Indoor/Outdoor/Computer)
+- ⚡ Fun fact: My name is not inspired by Dilbag Singh in the series Sacred Games
 
 #### Link to my [resume](https://rb.gy/dtmoqt)
 

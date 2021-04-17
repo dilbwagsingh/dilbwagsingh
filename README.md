@@ -88,7 +88,7 @@
   <img align="left" alt="Tensorflow" width="40px" 
   src="https://img.icons8.com/color/144/000000/tensorflow.png"/>
   <img align="left" alt="MongoDB" width="40px" 
-  src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  src="https://img.icons8.com/color/240/000000/mongodb.png"/>
   <img align="left" alt="Express.js" width="40px" 
   src="https://www.mementotech.in/assets/images/icons/express.png"/>
   <img align="left" alt="React.js" width="40px" 

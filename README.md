@@ -94,7 +94,7 @@
   <img align="left" alt="React.js" width="40px" 
   src="https://jasonpallone.com/React-icon.png"/>
   <img align="left" alt="Node.js" width="40px"
-  src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1618586434~hmac=e1daa2fbd03a119a9ee608c8d457f43f"/>
+  src="https://www.brainfuel.io/images/node-js-new.png"/>
   
 
   <br />

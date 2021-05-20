@@ -11,7 +11,7 @@
 - 💬 Ask me about: Tech gadgets
 - ⚡ Fun fact: My name is not inspired by Dilbag Singh in the series Sacred Games
 
-#### Link to my [resume](https://rb.gy/dtmoqt)
+#### Link to my [resume](https://tinyurl.com/5yhy9f42)
 
 ---
 
